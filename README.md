@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/ammar-ahmed-864136220/" target="_blank"><img src="https://img.shields.io/badge/-Ammar%20Ahmed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="ammarahmed1263@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Ammar%20Ahmed-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
-![C_lang](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
+![C lang](https://img.shields.io/badge/-C%20lang-05122A?style=flat&logo=c-lang)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
