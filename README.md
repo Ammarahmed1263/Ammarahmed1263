@@ -19,7 +19,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/ammar-ahmed-864136220/" target="_blank"><img src="https://img.shields.io/badge/-Ammar%20Ahmed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ammar-ahmed-saeid/" target="_blank"><img src="https://img.shields.io/badge/-Ammar%20Ahmed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 [![Gmail Badge](https://img.shields.io/badge/-ammarahmed1263@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ammarahmed1263@gmail.com)](mailto:ammarahmed1263@gmail.com)
 ### 🛠 &nbsp;Tech Stack
 ![C lang](https://img.shields.io/badge/-C%20Lang-05122A?style=flat&logo=C)&nbsp;
