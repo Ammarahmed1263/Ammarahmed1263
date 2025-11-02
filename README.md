@@ -8,19 +8,15 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20React%20Native%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=React%20Native%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=40E0D0&vCenter=true&size=25"></a>
 </p> 
 
-- 🏢 I'm a Junior React Native Developer.
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 🏢 I'm a Software Engineer specialized in React Native Development.
+- 👨‍💻 React Native dev on a mission — turning pixels into products, screens into stories, and bugs into… well, slightly smaller bugs.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my Resume at https://flowcv.com/resume/9ksda8k6a1 to see some of the projects I've worked on.
+- 👨‍💻 Check out my Resume [here](https://drive.google.com/file/d/1iZDJ57-IlyKzGC0XSDibaCb4PQ9fUpzw/view?usp=sharing) to see some of the projects I've worked on.
 
 
-### Connect with Me :
-
-<a href="https://www.linkedin.com/in/ammar-ahmed-saeid/" target="_blank"><img src="https://img.shields.io/badge/-Ammar%20Ahmed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-[![Gmail Badge](https://img.shields.io/badge/-ammarahmed1263@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ammarahmed1263@gmail.com)](mailto:ammarahmed1263@gmail.com)
 ### 🛠 &nbsp;Tech Stack
 ![C lang](https://img.shields.io/badge/-C%20Lang-05122A?style=flat&logo=C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -44,3 +40,10 @@
 <a href="https://komarev.com/ghpvc/?username=Ammarahmed1263&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Ammarahmed1263&style=for-the-badge">
 </a>
+
+
+### Connect with Me :
+
+[![LinkedIn](https://img.shields.io/badge/-Ammar%20Ahmed-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ammar-ahmed-saeid/)
+[![Gmail](https://img.shields.io/badge/-ammarahmed1263@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ammarahmed1263@gmail.com)
+
