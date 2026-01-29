@@ -14,7 +14,7 @@
 - 🏢 I'm a Software Engineer specialized in React Native Development.
 - 👨‍💻 React Native dev on a mission — turning pixels into products, screens into stories, and bugs into… well, slightly smaller bugs.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my Resume [here](https://drive.google.com/file/d/1iZDJ57-IlyKzGC0XSDibaCb4PQ9fUpzw/view?usp=sharing) to see some of the projects I've worked on.
+- 👨‍💻 Check out my Resume [here](https://drive.google.com/file/d/1gyT7AJ3lZbDyILNmYPs8FhD62yCu8OXy/view?usp=sharing) to see some of the projects I've worked on.
 
 
 ### 🛠 &nbsp;Tech Stack
